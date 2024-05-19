@@ -1,0 +1,134 @@
+.CaseStudies{
+    margin-top: 120px;
+}
+.CaseStudies .books{
+    margin-top: 20px;
+    display: flex;
+    gap: 47px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.CaseStudies .books .card .card-body{
+    background-color: #EDF0F4;
+}
+.PhishingPlaybook{
+    margin-top: 100px;
+}
+.PhishingTrainingGuide{
+    margin-top: 80px;
+}
+.PhishingTrainingGuide .hero{
+    background: transparent;
+    background-image: url("https://cybeready.com/wp-content/uploads/shutterstock_5187798467-900x450.jpg");
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.PhishingTrainingGuide .hero h1{
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+}
+.PhishingTrainingGuide .PhishingTrainingGuide-content{
+    display: flex;
+    font-size: 24px;
+    
+    
+}
+.PhishingTrainingGuide .PhishingTrainingGuide-content-sub{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 24px;
+    
+    
+}
+.PhishingTrainingGuide .PhishingTrainingGuide-content-sub .title{
+    font-size: 35px;
+    font-weight: 600;
+    color: #17538f;
+}
+.quiz{
+   display: flex;
+    background-image: url("../../img/qbg.png");
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   min-height: 600px;
+   background-size:cover;
+}
+.quiz .btns{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    gap: 100px;
+}
+.quiz .question-text{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+.quiz .options .child{
+    padding-left: 9px;
+    display: flex;
+}
+.quiz .options .child span{
+    font-size: 24px;
+    padding-left: 10px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.quiz .options .child input{
+    transform: scale(2.0);
+    cursor: pointer;
+}
+.paasswordChecker{
+     margin-top: 100px;
+    display: flex;
+    min-height: 500px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../img/passwordbg.png");
+    background-size: cover;
+}
+.paasswordChecker .title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #17538f;
+    padding-bottom: 10px;
+}
+.paasswordChecker input{
+    width: 420px;
+}
+.paasswordChecker .information{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0px;
+    gap:10px
+}
+.paasswordChecker .information span{
+    font-weight: 700;
+}
+.paasswordChecker .information .Very .Weak{
+   color: red;
+}
+.paasswordChecker .information .Strong{
+    color: green;
+ }
+ .SecurityAwareness-g{
+    margin-top: 115px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #17538f;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }

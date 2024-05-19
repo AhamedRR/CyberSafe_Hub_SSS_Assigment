@@ -1,0 +1,131 @@
+.BankingIndustry .BankingIndustry-hero{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 100px;
+    padding-top: 90px;
+    background-color: rgb(27,147,189);
+}
+.BankingIndustry .BankingIndustry-hero .BankingIndustry-hero-left{
+   padding: 100px;
+}
+.BankingIndustry .BankingIndustry-hero .BankingIndustry-hero-left .title{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+ }
+ .BankingIndustry .BankingIndustry-hero .BankingIndustry-hero-left .sub-title{
+    color: rgb(162, 236, 132);
+    font-size: 30px;
+    font-weight: 700;
+ }
+ .BankingIndustry .BankingIndustry-hero .BankingIndustry-hero-left span{
+    color: white;
+    font-size: 18px;
+ }
+
+.BankingIndustry .BankingIndustry-hero .BankingIndustry-hero-right img{
+padding-left: 100px;
+padding-top: 50px;
+}
+
+.BankingIndustry .BankingIndustry-hero-contents{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.BankingIndustry .BankingIndustry-hero-contents .title{
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #17538f;
+    font-weight: 700;
+}
+.BankingIndustry .BankingIndustry-hero-contents .BankingIndustry-hero-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.BankingIndustry .BankingIndustry-hero-contents .BankingIndustry-hero-content span{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17538f;
+}
+.BankingIndustry .BankingIndustry-hero-contents .BankingIndustry-hero-content ul li{
+ margin-left: -13px;
+ font-size: 18px;
+ padding-top: 10px;
+}
+.BankingIndustry .rbs-content{
+    display: flex;
+    flex-direction: row;
+    background-color: #ebf2f9;
+}
+.BankingIndustry .rbs-content .text-content{
+    display: flex;
+    flex-direction: column;
+    padding: 120px;
+
+}
+.BankingIndustry .rbs-content .text-content .title-name{
+    font-size: 25px;
+    color: #17538f;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.BankingIndustry .attacks-container{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+.BankingIndustry .vulnerabilities{
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.BankingIndustry .vulnerabilities h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #17538f;
+}
+
+.BankingIndustry .vulnerabilities .vulnerabilities-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    color: #17538f;
+    background-color: #ebf2f9;
+    margin-bottom: 10px;
+    border-radius: 1.3rem;
+
+}
+.BankingIndustry .vulnerabilities .vulnerabilities-header span{
+    font-size: 24px;
+    font-weight: 700;
+    color: #17538f;
+}
+.BankingIndustry .vulnerabilities .vulnerabilities-contents{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.BankingIndustry .vulnerabilities .vulnerabilities-contents .card .card-body .card-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #17538f;
+}
+.BankingIndustry .vulnerabilities .vulnerabilities-contents .card .card-body .card-text{
+    font-size: 18px;
+    font-weight: 400;
+    
+}

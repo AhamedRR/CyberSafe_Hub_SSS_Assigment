@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #335687 ;
+}
+.container .logo{
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+.container .navbar-collapse .navbar-nav .dropdown  .dropdown-menu .dropdown-item{
+    color: #17538F;
+}
+.container .navbar-collapse .navbar-nav .dropdown  .dropdown-menu .dropdown-item:hover{
+    font-weight: 500;
+    background-color: white !important;
+}

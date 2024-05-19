@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "question": "1. What is the most common vector for a malware infection?",
+      "options": ["Email attachments", "Social media posts", "USB drives", "Online advertisements"],
+      "answer": "Email attachments"
+    },
+    {
+      "question": "2. What is the purpose of a firewall in cybersecurity?",
+      "options": ["To prevent physical access to computer systems", "To encrypt data during transmission", "To block unauthorized network traffic", "To detect and remove malware from a system"],
+      "answer": "To block unauthorized network traffic"
+    },
+    {
+      "question": "3. Click on all links and download any attachments to investigate?",
+      "options": ["Mount Kilimanjaro", "Forward the email to as many colleagues as possible for awareness", "Delete the email immediately without opening any links or attachments", "Reply to the email asking for more information"],
+      "answer": "Delete the email immediately without opening any links or attachments"
+    },
+    {
+      "question": "4. What is social engineering in the context of cybersecurity?",
+      "options": [
+            "A type of encryption used to secure data",
+            "A method of scanning for vulnerabilities in a network",
+            "A technique used to manipulate individuals into revealing sensitive information", 
+            "A type of antivirus software"
+        ],
+      "answer": "A technique used to manipulate individuals into revealing sensitive information"
+    },
+    {
+      "question": "5. What is the purpose of regular software updates and patches?",
+      "options": [
+            "To improve the performance of the software",
+            "To add new features to the software",
+            "To fix security vulnerabilities in the software", 
+            "To update the software's user interface"
+        ],
+      "answer": "To fix security vulnerabilities in the software"
+    },
+ {
+      "question": "6. What is the purpose of a virtual private network (VPN)?",
+      "options": [
+            "To protect against malware attacks",
+            "To encrypt data during transmission",
+            "To prevent unauthorized access to a physical location", 
+            "To monitor network traffic for suspicious activities"
+        ],
+      "answer": "To encrypt data during transmission"
+    },
+{
+      "question": "7. What is a keylogger?",
+      "options": [
+            "A type of virus that spreads through USB drives",
+            "A hardware device used to encrypt data",
+            "A software that tracks and records keystrokes on a computer", 
+            "A type of firewall used to block specific websites"
+        ],
+      "answer": "A software that tracks and records keystrokes on a computer"
+    },
+{
+      "question": "8. What is the purpose of a security audit?",
+      "options": [
+            "To test the performance of a network",
+            "To assess the effectiveness of security measures",
+            "To recover lost data from a system", 
+            "To install antivirus software on a computer"
+        ],
+      "answer": "To assess the effectiveness of security measure"
+    },
+{
+      "question": "9. What is social media engineering?",
+      "options": [
+            "A method of encrypting data in social media posts",
+            "A technique to gain unauthorized access to social media accounts",
+            "A process of verifying social media profiles for authenticity", 
+            "A strategy to improve engagement on social media platforms"
+        ],
+      "answer": "A technique to gain unauthorized access to social media accounts"
+    },
+{
+      "question": "10. What is the best practice for backing up important data?",
+      "options": [
+            "Backing up data on a USB drive and keeping it in the same location as the original data",
+            "Backing up data on a cloud-based service with weak or common passwords",
+            "Backing up data on an external hard drive and storing it offsite or in a secure location", 
+            "Not backing up data as it is time-consuming and unnecessary"
+        ],
+      "answer": "Backing up data on an external hard drive and storing it offsite or in a secure location"
+    },
+{
+      "question": "11. What is a DDoS attack?",
+      "options": [
+            "A type of phishing attack",
+            "A method of encrypting data during transmission",
+            "A type of malware that infects web browsers", 
+            "A cyber attack that floods a network or website with traffic to overwhelm it"
+        ],
+      "answer": "A cyber attack that floods a network or website with traffic to overwhelm it"
+    },
+{
+      "question": "12. What is the purpose of a security policy?",
+      "options": [
+            "To restrict access to certain websites",
+            "To define the rules and guidelines for information security within an organization",
+            "To install antivirus software on all devices", 
+            "To monitor network traffic for suspicious activities"
+        ],
+      "answer": "To define the rules and guidelines for information security within an organizationt"
+    },
+{
+      "question": "13. What is a social media privacy setting?",
+      "options": [
+            "A type of encryption used to protect social media posts",
+            "A setting that allows posts to be seen by anyone on the internet",
+            "A setting that restricts posts to be visible only to approved friends or connections", 
+            "A feature to block all social media accounts from accessing a device"
+        ],
+      "answer": "A setting that restricts posts to be visible only to approved friends or connections"
+    },
+{
+      "question": "14. What is the purpose of a VPN tunnel?",
+      "options": [
+            "To encrypt data during transmission",
+            "To restrict access to specific websites",
+            "To detect and remove malware from a system", 
+            "To block all incoming and outgoing network traffic"
+        ],
+      "answer": "To encrypt data during transmission"
+    },
+{
+      "question": "15. What is the best practice for handling public Wi-Fi networks?",
+      "options": [
+            "Connect to any available public Wi-Fi network without providing any personal information",
+            "Avoid using public Wi-Fi networks as they are not secure",
+            "Use a virtual private network (VPN) to encrypt data during transmission", 
+            "Share personal information freely while using public Wi-Fi networks as they are secure"
+        ],
+      "answer": "Use a virtual private network (VPN) to encrypt data during transmission"
+    },
+{
+      "question": "16. What is the most common type of social engineering attack?",
+      "options": [
+            "Phishing",
+            "Malware",
+            "DDoS", 
+            "Spoofing"
+        ],
+      "answer": "Phishing"
+    },
+{
+      "question": "17.What is multi-factor authentication (MFA)?",
+      "options": [
+            "A type of malware that spreads through multiple devices",
+            "A method to encrypt data during transmission",
+            "A technique used to gain unauthorized access to social media accounts", 
+            "A security measure that requires multiple forms of authentication to access an account or system"
+        ],
+      "answer": "A security measure that requires multiple forms of authentication to access an account or system"
+    },
+{
+      "question": "18. What is the purpose of a firewall?",
+      "options": [
+            "To block all incoming and outgoing network traffic",
+            "To encrypt data during transmission",
+            "To restrict access to specific websites", 
+            "To detect and remove malware from a system"
+        ],
+      "answer": "To block all incoming and outgoing network traffic"
+    },
+{
+      "question": "19. What is the best practice for creating strong passwords?",
+      "options": [
+            "Using simple and easily guessable passwords",
+            "Using the same password across multiple accounts",
+            "Using a combination of letters, numbers, and special characters", 
+            "Using only lowercase letters for passwords"
+        ],
+      "answer": "Using a combination of letters, numbers, and special characters"
+    },
+{
+      "question": "20. What is the purpose of a security patch or update?",
+      "options": [
+            "To install new features on a system",
+            "To remove all security measures from a system",
+            "To fix vulnerabilities and bugs in a system", 
+            "To slow down the performance of a system"
+        ],
+      "answer": "To fix vulnerabilities and bugs in a system"
+    }
+  ]
+}

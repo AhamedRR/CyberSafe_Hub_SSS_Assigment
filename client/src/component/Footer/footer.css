@@ -1,0 +1,6 @@
+.footer-content a {
+    text-decoration: none !important;
+}
+.footer-content a:hover{
+    font-weight: 700;
+}
